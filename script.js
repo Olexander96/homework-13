@@ -50,14 +50,3 @@
 // let dollar = +prompt('Введіть суму в доларах', 0);
 // const euro = dollar * 0.8;
 // alert(`Ваша сума ${euro} євро`);
-
-
-
-
-
-
-
-
-
-
-
